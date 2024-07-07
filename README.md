@@ -67,5 +67,3 @@ chmod +x import_to_hoarder.sh
 ## Contributing
 
 Feel free to open issues or submit pull requests if you have suggestions for improvements or encounter any problems.
-# linkwarden-to-hoarder
-# linkwarden-to-hoarder
